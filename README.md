@@ -1,4 +1,4 @@
-# =================== React Application ===================
+# React Application
 
 ## Available Scripts
 In the project directory, you can run:
@@ -22,7 +22,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-# =================== Python Application ===================
+# Python Application
 
 ## Checkout to api directory
 ### `cd api`
@@ -47,7 +47,7 @@ It will install all required python libraries which are used in this application
 Runs the app in the development mode.\
 It will run the App on [http://127.0.0.1:5000](http://127.0.0.1:5000).
 
-# =================== API Use case ===================
+# API Use case
 
 ## Time Endpoint 
 ### `/time`
